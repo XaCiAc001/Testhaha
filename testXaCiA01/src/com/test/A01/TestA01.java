@@ -4,6 +4,7 @@ public class TestA01 {
 
 	public static void main(String[] args) {
 		System.out.println("¹þ¹þ");
+		int a = 45;
 	}
 	
 }
